@@ -1,6 +1,5 @@
 <?php
 // index.php
-// Il nome del servizio definito in docker-compose.yml.
 $host = 'db';
 $user = 'MYSQL_USER';
 $pass = 'MYSQL_PASSWORD';
